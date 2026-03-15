@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=230&section=header&text=Nishant%20Ranjan%20Verma&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20AI%20%26%20ML%20Engineer%20%7C%20Dublin,%20Ireland&descSize=18&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=230&section=header&text=Nishant%20Ranjan%20Verma&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20AI%20Engineer%20•%20Cork%20City%20Ireland&descSize=18&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishant-ranjan-verma-6945648a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
