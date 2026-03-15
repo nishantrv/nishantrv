@@ -16,6 +16,7 @@
 ```yaml
 name: Nishant Ranjan Verma
 located_in: Cork City, Ireland
+current_role: Lead AI & Data Engineer @ Virgin Media
 
 experience:
   years: 8+
@@ -187,8 +188,10 @@ building_right_now:
 ### GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishantrv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nishantrv&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
+
+<!-- If trophies don't load, the service may be temporarily down. They auto-recover. -->
 
 ---
 
