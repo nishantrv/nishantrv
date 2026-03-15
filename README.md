@@ -83,44 +83,6 @@ building_right_now:
 
 ---
 
-### Featured projects
-
-<a href="https://github.com/nishantrv/Multi_Agent_Chatbot-LangChain_LangGraph_AWSECR_FARGATE_JENKINS_TAVILYSEARCH-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Multi_Agent_Chatbot-LangChain_LangGraph_AWSECR_FARGATE_JENKINS_TAVILYSEARCH-&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nishantrv/Product_Recommender_System_AgenticAI_Chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Product_Recommender_System_AgenticAI_Chatbot&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nishantrv/RAG_Medical_ChatBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=RAG_Medical_ChatBot&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nishantrv/NetworkSecurity_End2End-Deployment-Docker-ECR-EC2-MLFlow-GithubAction-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=NetworkSecurity_End2End-Deployment-Docker-ECR-EC2-MLFlow-GithubAction-&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nishantrv/US-Visa-Approval-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=US-Visa-Approval-Prediction&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nishantrv/Chest-Disease-Classification--MLFlow-DVC-MLOps-Deployment-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Chest-Disease-Classification--MLFlow-DVC-MLOps-Deployment-&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-
-<details>
-<summary>📂 <b>View 4 more projects</b></summary>
-<br>
-<a href="https://github.com/nishantrv/ML-Recommender-System_End2End_-Jenkins-Docker-GCP-Flask-MLFlow-CloudRun-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=ML-Recommender-System_End2End_-Jenkins-Docker-GCP-Flask-MLFlow-CloudRun-&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nishantrv/WineQuality_MLFLOW_ModularCode_Flask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=WineQuality_MLFLOW_ModularCode_Flask&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nishantrv/DVC-MLflow-Dagshub-ML-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=DVC-MLflow-Dagshub-ML-Project&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nishantrv/Diabetes-Predicton-Deplpyment-With-AWS-BeanStalk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Diabetes-Predicton-Deplpyment-With-AWS-BeanStalk&theme=tokyonight&hide_border=true" />
-</a>
-</details>
-
 ---
 
 ### Tech arsenal
@@ -185,13 +147,43 @@ building_right_now:
 
 ---
 
-### GitHub trophies
+### Pinned projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishantrv&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
+<a href="https://github.com/nishantrv/Multi_Agent_Chatbot-LangChain_LangGraph_AWSECR_FARGATE_JENKINS_TAVILYSEARCH-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Multi_Agent_Chatbot-LangChain_LangGraph_AWSECR_FARGATE_JENKINS_TAVILYSEARCH-&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/nishantrv/Product_Recommender_System_AgenticAI_Chatbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Product_Recommender_System_AgenticAI_Chatbot&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/nishantrv/RAG_Medical_ChatBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=RAG_Medical_ChatBot&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/nishantrv/NetworkSecurity_End2End-Deployment-Docker-ECR-EC2-MLFlow-GithubAction-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=NetworkSecurity_End2End-Deployment-Docker-ECR-EC2-MLFlow-GithubAction-&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/nishantrv/US-Visa-Approval-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=US-Visa-Approval-Prediction&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/nishantrv/Chest-Disease-Classification--MLFlow-DVC-MLOps-Deployment-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Chest-Disease-Classification--MLFlow-DVC-MLOps-Deployment-&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
 
-<!-- If trophies don't load, the service may be temporarily down. They auto-recover. -->
+<details>
+<summary>📂 <b>View 4 more projects</b></summary>
+<br>
+<a href="https://github.com/nishantrv/ML-Recommender-System_End2End_-Jenkins-Docker-GCP-Flask-MLFlow-CloudRun-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=ML-Recommender-System_End2End_-Jenkins-Docker-GCP-Flask-MLFlow-CloudRun-&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nishantrv/WineQuality_MLFLOW_ModularCode_Flask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=WineQuality_MLFLOW_ModularCode_Flask&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nishantrv/DVC-MLflow-Dagshub-ML-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=DVC-MLflow-Dagshub-ML-Project&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nishantrv/Diabetes-Predicton-Deplpyment-With-AWS-BeanStalk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantrv&repo=Diabetes-Predicton-Deplpyment-With-AWS-BeanStalk&theme=tokyonight&hide_border=true" />
+</a>
+</details>
 
 ---
 
