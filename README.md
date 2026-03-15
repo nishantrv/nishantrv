@@ -15,13 +15,13 @@
 
 ```yaml
 name: Nishant Ranjan Verma
-located_in: Dublin, Ireland
+located_in: Cork City, Ireland
 current_role: Lead AI & Data Engineer @ Virgin Media
 
 experience:
   years: 8+
   companies:
-    - Virgin Media (2024-present)
+    - Virgin Media (2024-2025)
     - Wayfair (2022-2024)
     - Habitus Health (2022)
     - Adobe Systems (2018-2020)
@@ -34,10 +34,8 @@ education:
 building_right_now:
   - Agentic AI systems with LangGraph
   - RAG pipelines over enterprise documents
+  - ML applications with MLOps infrastructure
   - MLOps infrastructure at scale
-
-fun_fact: "I've served 50+ Fortune 500 clients across
-           4 companies on 2 continents"
 ```
 
 <br clear="right"/>
@@ -51,17 +49,34 @@ fun_fact: "I've served 50+ Fortune 500 clients across
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🤖-6C63FF?style=for-the-badge" width="60" height="30"/>
 <br><b>Agentic AI</b>
-<br><sub>Multi-agent systems with<br>LangGraph + LangChain<br>that reason, search & act</sub>
+<br><sub>Multi-agent systems with<br>LangGraph + LangChain<br>that reason, search &amp; act</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🔍-3B82F6?style=for-the-badge" width="60" height="30"/>
 <br><b>RAG Systems</b>
-<br><sub>Retrieval-augmented generation<br>with FAISS, vector search<br>& grounded answers</sub>
+<br><sub>Retrieval-augmented generation<br>with FAISS, vector search<br>&amp; grounded answers</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/⚙️-10B981?style=for-the-badge" width="60" height="30"/>
 <br><b>MLOps Pipelines</b>
-<br><sub>End-to-end ML systems<br>with CI/CD, Docker, K8s<br>MLflow & cloud deploy</sub>
+<br><sub>End-to-end ML systems<br>with CI/CD, Docker, K8s<br>MLflow &amp; cloud deploy</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧠-F59E0B?style=for-the-badge" width="60" height="30"/>
+<br><b>ML Applications</b>
+<br><sub>Classification, regression<br>recommender systems<br>with production serving</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🏥-EF4444?style=for-the-badge" width="60" height="30"/>
+<br><b>Deep Learning</b>
+<br><sub>CNN, VGG16, transfer learning<br>for medical imaging &amp;<br>computer vision tasks</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/☁️-8B5CF6?style=for-the-badge" width="60" height="30"/>
+<br><b>Cloud Deployment</b>
+<br><sub>AWS (Fargate, EC2, ECR, S3)<br>GCP (Cloud Run)<br>Kubernetes + monitoring</sub>
 </td>
 </tr>
 </table>
@@ -111,7 +126,7 @@ fun_fact: "I've served 50+ Fortune 500 clients across
 ### Tech arsenal
 
 <details open>
-<summary><b>🧠 AI & GenAI</b></summary>
+<summary><b>🧠 AI &amp; GenAI</b></summary>
 <br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -125,7 +140,7 @@ fun_fact: "I've served 50+ Fortune 500 clients across
 </details>
 
 <details open>
-<summary><b>🔬 ML & Deep Learning</b></summary>
+<summary><b>🔬 ML &amp; Deep Learning</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -138,7 +153,7 @@ fun_fact: "I've served 50+ Fortune 500 clients across
 </details>
 
 <details open>
-<summary><b>🚀 MLOps & DevOps</b></summary>
+<summary><b>🚀 MLOps &amp; DevOps</b></summary>
 <br>
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -152,7 +167,7 @@ fun_fact: "I've served 50+ Fortune 500 clients across
 </details>
 
 <details>
-<summary><b>☁️ Cloud & Data</b></summary>
+<summary><b>☁️ Cloud &amp; Data</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -203,7 +218,7 @@ fun_fact: "I've served 50+ Fortune 500 clients across
 ### Career journey
 
 ```
-  2024 ─── 🟣 Lead AI & Data Engineer ────── Virgin Media, Ireland
+  2024-25 ── 🟣 Lead AI & Data Engineer ────── Virgin Media, Ireland
             │  GenAI solutions for 5M+ customers across UK & Ireland
             │
   2022 ─── 🔵 Sr. ML Engineer / MLOps ────── Wayfair, Ireland
