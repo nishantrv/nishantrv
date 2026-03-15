@@ -16,7 +16,6 @@
 ```yaml
 name: Nishant Ranjan Verma
 located_in: Cork City, Ireland
-current_role: Lead AI & Data Engineer @ Virgin Media
 
 experience:
   years: 8+
