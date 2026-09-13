@@ -34,23 +34,41 @@
 ## Toolkit
 
 <details open>
-<summary><b>🧠 AI &amp; GenAI</b></summary>
+<summary><b>🧠 Agentic AI &amp; GenAI</b></summary>
 <br>
+
+*Orchestration & agent patterns*
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-6C63FF?style=for-the-badge)
+![Supervisor Pattern](https://img.shields.io/badge/Supervisor_Pattern-6C63FF?style=for-the-badge)
+![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-3B82F6?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-3B82F6?style=for-the-badge)
+
+*Models & gateway*
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![Portkey](https://img.shields.io/badge/Portkey_Gateway-7C3AED?style=for-the-badge)
+
+*Retrieval & grounding*
+
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-000?style=for-the-badge)
-![NeMo Guardrails](https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-6C63FF?style=for-the-badge)
+![Jina AI](https://img.shields.io/badge/Jina_AI-0891B2?style=for-the-badge)
+![Tavily](https://img.shields.io/badge/Tavily_Search-0F766E?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge)
+
+*Safety & contracts*
+
+![NeMo Guardrails](https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 </details>
 
 <details open>
@@ -67,17 +85,34 @@
 </details>
 
 <details open>
-<summary><b>🚀 MLOps &amp; DevOps</b></summary>
+<summary><b>🚀 MLOps &amp; LLMOps</b></summary>
 <br>
+
+*LLM tracing & evaluation*
+
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![Logfire](https://img.shields.io/badge/Pydantic_Logfire-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-6C63FF?style=for-the-badge)
+![DeepEval](https://img.shields.io/badge/DeepEval-8B5CF6?style=for-the-badge)
+
+*Experiment & data versioning*
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-FF6B00?style=for-the-badge)
+
+*Monitoring & load*
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-2EA44F?style=for-the-badge)
+
+*Build & delivery*
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 </details>
 
 <details open>
