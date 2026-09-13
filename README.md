@@ -31,6 +31,32 @@
 
 ---
 
+## Track record
+
+```
+  2026 ──── 🟣  Senior AI Data Scientist ───── Solventum · Dublin, Ireland
+    now      │   AI & data science for healthcare technology
+             │
+  2024-25 ── 🔵  Lead AI & Data Engineer ───── Virgin Media · Ireland
+             │   GenAI solutions for 5M+ customers across UK & Ireland
+             │
+  2022 ───── 🟢  Sr. ML Engineer / MLOps ───── Wayfair · Ireland
+             │   ML models for a $12B+ e-commerce platform
+             │
+  2022 ───── 🟡  Data Scientist ────────────── Habitus Health · Ireland
+             │   Predictive models for healthcare compliance
+             │
+  2018 ───── 🟠  Data Analyst & Consultant ─── Adobe Systems · India
+             │   Analytics for 50+ Fortune 500 clients
+             │
+  2016 ───── 🔴  Analyst ───────────────────── Google · India
+                 Data analysis for advertising & search products
+```
+
+**Education** &nbsp;·&nbsp; 🎓 MSc AI & Big Data, *Distinction* — ATU, Ireland &nbsp;·&nbsp; 🎓 BE Computer Science Engineering — Amity University, India
+
+---
+
 ## Toolkit
 
 <details open>
@@ -132,32 +158,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 </details>
-
----
-
-## Track record
-
-```
-  2026 ──── 🟣  Senior AI Data Scientist ───── Solventum · Dublin, Ireland
-    now      │   AI & data science for healthcare technology
-             │
-  2024-25 ── 🔵  Lead AI & Data Engineer ───── Virgin Media · Ireland
-             │   GenAI solutions for 5M+ customers across UK & Ireland
-             │
-  2022 ───── 🟢  Sr. ML Engineer / MLOps ───── Wayfair · Ireland
-             │   ML models for a $12B+ e-commerce platform
-             │
-  2022 ───── 🟡  Data Scientist ────────────── Habitus Health · Ireland
-             │   Predictive models for healthcare compliance
-             │
-  2018 ───── 🟠  Data Analyst & Consultant ─── Adobe Systems · India
-             │   Analytics for 50+ Fortune 500 clients
-             │
-  2016 ───── 🔴  Analyst ───────────────────── Google · India
-                 Data analysis for advertising & search products
-```
-
-**Education** &nbsp;·&nbsp; 🎓 MSc AI & Big Data, *Distinction* — ATU, Ireland &nbsp;·&nbsp; 🎓 BE Computer Science Engineering — Amity University, India
 
 ---
 
